@@ -205,10 +205,10 @@ p::after {
     width: 100%;
     margin: 12px 0;
   }
-  header{
+  header {
     position: relative;
   }
-  nav{
+  nav {
     top: 0;
   }
 }
